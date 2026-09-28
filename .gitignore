@@ -1,0 +1,14 @@
+uploads/
+outputs/
+!uploads/.gitkeep
+!outputs/.gitkeep
+__pycache__/
+.ruff_cache/
+*.pyc
+.DS_Store
+.env
+.venv/
+venv/
+*.zip
+*.pt
+!models/fire-smoke-yolov8n.pt

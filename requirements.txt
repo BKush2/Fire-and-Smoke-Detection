@@ -1,0 +1,4 @@
+flask>=3.0.0
+ultralytics>=8.0.0
+huggingface_hub>=0.20.0
+opencv-python>=4.8.0
